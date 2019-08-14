@@ -1,8 +1,9 @@
 ---
-draft: true
+draft: false
+aliases: ["/en/"]
 ---
 
-# Conventional Commits 1.0.0.next
+# Conventional Commits 1.0.0
 
 ## Summary
 
@@ -182,18 +183,17 @@ Configurable and usable for PHP projects as a composer dependency or usable glob
 
 ## Projects Using Conventional Commits
 
-* [yargs](https://github.com/yargs/yargs): everyone's favorite pirate themed command line argument parser.
-* [istanbuljs](https://github.com/istanbuljs/istanbuljs): a collection of open-source tools and libraries for adding test coverage to your JavaScript tests.
-* [uPortal-home](https://github.com/UW-Madison-DoIT/angularjs-portal) and [uPortal-application-framework](https://github.com/UW-Madison-DoIT/uw-frame): Optional supplemental user interface enhancing [Apereo uPortal](https://www.apereo.org/projects/uportal).
-* [massive.js](https://github.com/dmfay/massive-js): A data access library for Node and PostgreSQL.
-* [electron](https://github.com/electron/electron): Build cross-platform desktop apps with JavaScript, HTML, and CSS.
-* [scroll-utility](https://github.com/LeDDGroup/scroll-utility): A simple to use scroll utility package for centering elements, and smooth animations
 * [Blaze UI](https://github.com/BlazeUI/blaze): Framework-free open source UI toolkit.
+* [electron](https://github.com/electron/electron): Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+* [istanbuljs](https://github.com/istanbuljs/istanbuljs): a collection of open-source tools and libraries for adding test coverage to your JavaScript tests.
+* [massive.js](https://github.com/dmfay/massive-js): A data access library for Node and PostgreSQL.
+* [mhy](https://mhy.js.org): A zero-config, out-of-the-box, multi-purpose toolbox and development environment.
 * [Monica](https://github.com/monicahq/monica): An open source personal relationship management system.
-* [mhy](https://mhy.js.org): 🧩 A zero-config, out-of-the-box, multi-purpose toolbox and development environment.
-* [@thi.ng/umbrella](https://github.com/thi-ng/umbrella): Monorepo of ~100 TypeScript projects for data driven development
+* [scroll-utility](https://github.com/LeDDGroup/scroll-utility): A simple to use scroll utility package for centering elements, and smooth animations
+* [uPortal-home](https://github.com/UW-Madison-DoIT/angularjs-portal) and [uPortal-application-framework](https://github.com/UW-Madison-DoIT/uw-frame): Optional supplemental user interface enhancing [Apereo uPortal](https://www.apereo.org/projects/uportal).
+* [yargs](https://github.com/yargs/yargs): everyone's favorite pirate themed command line argument parser.
 * [yii2-basic-firestarter](https://github.com/HunWalk/yii2-basic-firestarter): 🔥 An enhanced Yii2 app template.
-
+* [@thi.ng/umbrella](https://github.com/thi-ng/umbrella): Monorepo of ~100 TypeScript projects for data driven development
 
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 
